@@ -1,0 +1,3 @@
+C:/Users/Edoardo/CLionProjects/PIZZEGHELLO_Rubrica_c/cmake-build-debug/CMakeFiles/uEsercizio1.dir
+C:/Users/Edoardo/CLionProjects/PIZZEGHELLO_Rubrica_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Edoardo/CLionProjects/PIZZEGHELLO_Rubrica_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
